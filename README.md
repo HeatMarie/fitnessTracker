@@ -19,7 +19,7 @@ Because working out is the best way to control your anger.
 
 ## Assignment
 
-
+The main task here was to create a MongoDB database and create a server and api's that would fetch and store the correct data. 
 
 ## The Results
 
@@ -34,9 +34,9 @@ Because working out is the best way to control your anger.
 https://heats-fitness-tracker.herokuapp.com/
 
 ## Comments 
-This was a little pesky fella. It was a start to finish project that will continue to be an on going project. There is major room for growth, but the base and the start is there. 
+This was. . . Well, let us say interesting. It's one of those, you finally get comfy using MySQL and you're told, "Okay now switch to mongo". Then you tag a little mongoose on top of it, and call it sweet. But its complexity was something more than just a little bit of sugar for me. It was more like dumping an entire bottle of lemon juice on top and being forced to eat the whole thing. Yet, here we are and it's done, and it's working. I still believe that all this coding stuff is some type of magic that will decide when and if it likes you. 
 
-I'm amazed at the things I learned along the road to completing this assignment. I started out completely confused on how to use merge the use of Modals and APIs and the idea of intertwining them with Handlebars, sigh. That's how I felt. Sad. But in the end I completed it, and I'm happy with that. It's amazing what happens when you have the focus. 
+There is still more learning to do, let's face the facts, there is always learning to do. And so I shall. We'll see what amazing things come later. Besides, I have goals to take these appss and turn them into something pretty, make them more than what they already are. The list of projects grows longer each week. 
 
 
 
@@ -59,7 +59,7 @@ I'm amazed at the things I learned along the road to completing this assignment.
   
   <a href="mailto:h.m.bjoin@gmail.com">Email</a>
 
-  ### To see more of my projects: 
+  ### To see more projects: 
 
   <a href="https://github.com/HeatMarie">Github</a>
 
