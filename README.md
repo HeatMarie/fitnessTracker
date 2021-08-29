@@ -23,15 +23,15 @@ Because working out is the best way to control your anger.
 
 ## The Results
 
-![image](public/images/dashboard.jpg)
-![image](public/images/login.jpg)
 ![image](public/images/homepage.jpg)
+![image](public/images/workout.jpg)
+![image](public/images/stats.jpg)
 
 
 
 ## Link to Demo 
 
-https://heats-tech-blog.herokuapp.com/
+https://heats-fitness-tracker.herokuapp.com/
 
 ## Comments 
 This was a little pesky fella. It was a start to finish project that will continue to be an on going project. There is major room for growth, but the base and the start is there. 
